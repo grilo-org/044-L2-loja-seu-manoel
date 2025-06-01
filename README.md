@@ -54,7 +54,7 @@ REQUEST:
     "username": "JorgeUser",
     "password": "password123",
     "name": "Jorge",
-    "email": "elipidio@example.com"
+    "email": "jorge@example.com"
 }
 ```
 RESPONSE
