@@ -1,0 +1,49 @@
+{
+  "orders": [
+    {
+      "id": "1",
+      "products": [
+        {
+          "id": "1",
+          "name": "Smartphone",
+          "height": 15.0,
+          "width": 7.5,
+          "length": 1.0
+        },
+        {
+          "id": "2",
+          "name": "Laptop",
+          "height": 2.5,
+          "width": 35.0,
+          "length": 25.0
+        },
+        {
+          "id": "3",
+          "name": "Headphones",
+          "height": 10.0,
+          "width": 10.0,
+          "length": 5.0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "products": [
+        {
+          "id": "4",
+          "name": "Monitor",
+          "height": 35.0,
+          "width": 55.0,
+          "length": 10.0
+        },
+        {
+          "id": "5",
+          "name": "Keyboard",
+          "height": 3.0,
+          "width": 45.0,
+          "length": 15.0
+        }
+      ]
+    }
+  ]
+}

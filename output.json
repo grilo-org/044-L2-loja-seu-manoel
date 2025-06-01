@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "orderId": "1",
+      "boxesUsed": [
+        {
+          "box": {
+            "id": "1",
+            "name": "Box 1",
+            "height": 30.0,
+            "width": 40.0,
+            "length": 80.0
+          },
+          "products": [
+            {
+              "id": "2",
+              "name": "Laptop",
+              "height": 2.5,
+              "width": 35.0,
+              "length": 25.0
+            },
+            {
+              "id": "3",
+              "name": "Headphones",
+              "height": 10.0,
+              "width": 10.0,
+              "length": 5.0
+            },
+            {
+              "id": "1",
+              "name": "Smartphone",
+              "height": 15.0,
+              "width": 7.5,
+              "length": 1.0
+            }
+          ],
+          "volumeOccupied": 2731.25,
+          "efficiency": 28.45
+        }
+      ]
+    },
+    {
+      "orderId": "2",
+      "boxesUsed": [
+        {
+          "box": {
+            "id": "2",
+            "name": "Box 2",
+            "height": 80.0,
+            "width": 50.0,
+            "length": 40.0
+          },
+          "products": [
+            {
+              "id": "4",
+              "name": "Monitor",
+              "height": 35.0,
+              "width": 55.0,
+              "length": 10.0
+            },
+            {
+              "id": "5",
+              "name": "Keyboard",
+              "height": 3.0,
+              "width": 45.0,
+              "length": 15.0
+            }
+          ],
+          "volumeOccupied": 21025.0,
+          "efficiency": 65.7
+        }
+      ]
+    }
+  ]
+}
